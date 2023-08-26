@@ -1,0 +1,12 @@
+{
+  "name": "node_farm",
+  "version": "1.0.0",
+  "description": "The 'Node Farm' project is a dynamic web application powered by Node.js that offers a virtual farm experience. It showcases a variety of farm products through interactive product cards, each linking to detailed information about the product. The application utilizes server-side rendering and templates to create seamless user experiences, and it includes an API for easy integration of product data. Whether you're a developer honing your Node.js skills or a user exploring farm products, 'Node Farm' provides an engaging and educational platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Niroop R",
+  "license": "ISC"
+}
